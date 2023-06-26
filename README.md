@@ -1,1 +1,2 @@
-# JazzFakeBookIndexes
+This repo contains a main spreadsheet with index worksheets for some jazz fakebooks (Bb only for now)
+They also contain pdfb files for the Fakebook Pro Android application (links goes to publicly available versions of pdf's for testing purposes, please replace with legally purchased versions)
